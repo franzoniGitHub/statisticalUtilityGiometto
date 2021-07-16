@@ -1,0 +1,3 @@
+computeDissipation.C
+
+EXE = ../computeDissipation.exe

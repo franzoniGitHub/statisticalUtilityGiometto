@@ -1,0 +1,10 @@
+Program to compute the statistics for the Giometto case.
+1) check and SET the parameters in the SETTINGS.h file.
+2) check that the z.dat file is in the current STATS directory. It should contain the z-component of the grid stencil (dimensionful values [metres]).
+3) to RUN the program, do:
+  
+   bash RUN.sh
+
+   inside the current STATS directory.
+
+NOTE: please do NOT modify the hierarchy of the existing directories, otherwise the program will not work.
